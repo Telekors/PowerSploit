@@ -1,3 +1,5 @@
+### Adding stuff to the readme to try and mess with the hash of the download file.
+
 ### PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts:
 
 ## CodeExecution
