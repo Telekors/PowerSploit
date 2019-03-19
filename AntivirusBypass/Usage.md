@@ -1,3 +1,5 @@
+#Adding Comment Here
+
 To install this module, drop the entire AntivirusBypass folder into one of your module directories. The default PowerShell module paths are listed in the $Env:PSModulePath environment variable.
 
 The default per-user module path is: "$Env:HomeDrive$Env:HOMEPATH\Documents\WindowsPowerShell\Modules"
